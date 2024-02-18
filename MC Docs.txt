@@ -1,0 +1,13 @@
+http://www.ilnurgi1.ru/docs/python/modules_user/minecraft/minecraft.html#cmdevents
+https://forums.raspberrypi.com/viewtopic.php?t=299324
+https://stoneskin.github.io/python-minecraft/documents/2_LearnPythonWithMineCraft/2.1_Understand_the_coordinates_of_minecraft.html
+https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi/4
+https://www.stuffaboutcode.com/p/minecraft-api-reference.html
+https://sites.google.com/hewittschool.org/mcpimod/api
+https://arghbox.files.wordpress.com/2014/04/blockfighter_a5.pdf
+https://stackoverflow.com/questions/14835313/python-functions-dont-behave-as-expected-when-called-from-threaded-class
+https://pimylifeup.com/minecraft-pi-edition-api-reference/
+https://www.youtube.com/watch?v=JCb44hrAOTw&list=PLS9qLR8VoFA6K6ruMu-fmUwtSoWJgLgLr&index=4&ab_channel=GeekTutorials
+https://minecraft-stuff.readthedocs.io/en/latest/
+https://minecraft-stuff.readthedocs.io/en/latest/minecraftdrawing.html
+https://minecraft-stuff.readthedocs.io/en/latest/minecraftshape.html
