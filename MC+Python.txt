@@ -1,0 +1,62 @@
+Получение сообщения из чата
+
+import mcpi.minecraft as minecraft
+
+world = minecraft.Minecraft.create()
+
+while True:
+    for event in world.events.pollChatPosts():
+        print(event)
+
+Построить огромный куб из камня
+
+import mcpi.minecraft as minecraft
+from mcpi import block
+
+world = minecraft.Minecraft.create()
+
+stone = 1
+x, y, z = world.player.getPos()
+world.setBlocks(x+1, y+1, z+1, x+11, y+11, z+11, stone)
+
+Телепортация игрока
+
+import mcpi.minecraft as minecraft
+
+world = minecraft.Minecraft.create()
+
+
+x, y, z = world .player.getPos()
+world .player.setPos(x+100, y, z+100)
+
+Взаимодействие с чатом
+
+import mcpi.minecraft as minecraft
+
+world = minecraft.Minecraft.create()
+
+while True:
+    for event in world.events.pollChatPosts():
+        if "Hello" in event.message:
+            world.postToChat('Hi')
+
+Общение через питон с игроками на сервере
+
+text = input()
+world.postToChat(text)
+
+Телепортация через input
+playerid = int(input())
+_x= int(input())
+_y= int(input())
+_z= int(input())
+
+entityIds = world.getPlayerEntityIds()
+EntityId = entityIds[playerid]
+world.player.setPos(EntityId,_x,_y,_z)
+
+получение списка играков 
+players_ids = world.getPlayerEntityIds()
+print(len(players_ids), " entities available.")
+number = len(players_ids)
+world.postToChat(  "%s entities available." %number)
