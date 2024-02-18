@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "aa8bd5e4-2620-3bf3-8857-0a2b12827bf9",
+    "name": "Sm1thZe",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fd254234-db93-3b50-86cb-d3b4873f7223",
+    "name": "RasberryJuice",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "884a0d8c-27fa-4824-b3ef-94f50ea94b5f",
+    "name": "list",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

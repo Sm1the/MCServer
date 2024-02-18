@@ -1,0 +1,260 @@
+[21:17:02] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[21:17:03] [Server thread/INFO]: Loading properties
+[21:17:03] [Server thread/INFO]: Default game type: CREATIVE
+[21:17:03] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-6de2fbc-c1aa859 (MC: 1.11.2) (Implementing API version 1.11.2-R0.1-SNAPSHOT)
+[21:17:04] [Server thread/INFO]: Debug logging is disabled
+[21:17:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:17:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:17:04] [Server thread/INFO]: Generating keypair
+[21:17:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:17:04] [Server thread/INFO]: Using default channel type
+[21:17:05] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[21:17:05] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v2.1
+[21:17:05] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.7
+[21:17:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:17:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:17:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:17:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:17:05] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[21:17:05] [Server thread/INFO]: Preparing level "world"
+[21:17:05] [Server thread/INFO]: -------- World Settings For [world] --------
+[21:17:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:17:05] [Server thread/INFO]: View Distance: 10
+[21:17:05] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:17:05] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:17:05] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:17:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617Monument: 10387313 Slime: 987234911
+[21:17:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:17:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:17:05] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:17:05] [Server thread/INFO]: Max TNT Explosions: 100
+[21:17:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:17:05] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:17:05] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:17:05] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:17:05] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:17:05] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:17:05] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:17:05] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:17:05] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:17:05] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:17:05] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:17:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:17:05] [Server thread/INFO]: Random Lighting Updates: false
+[21:17:05] [Server thread/INFO]: Structure Info Saving: true
+[21:17:05] [Server thread/INFO]: Mob Spawn Range: 4
+[21:17:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:17:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[21:17:06] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[21:17:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:17:06] [Server thread/INFO]: View Distance: 10
+[21:17:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:17:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:17:06] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:17:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617Monument: 10387313 Slime: 987234911
+[21:17:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:17:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:17:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:17:06] [Server thread/INFO]: Max TNT Explosions: 100
+[21:17:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:17:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:17:06] [Server thread/INFO]: Random Lighting Updates: false
+[21:17:06] [Server thread/INFO]: Structure Info Saving: true
+[21:17:06] [Server thread/INFO]: Mob Spawn Range: 4
+[21:17:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:17:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[21:17:06] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[21:17:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[21:17:06] [Server thread/INFO]: View Distance: 10
+[21:17:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[21:17:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[21:17:06] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[21:17:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617Monument: 10387313 Slime: 987234911
+[21:17:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[21:17:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[21:17:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[21:17:06] [Server thread/INFO]: Max TNT Explosions: 100
+[21:17:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[21:17:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[21:17:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[21:17:06] [Server thread/INFO]: Random Lighting Updates: false
+[21:17:06] [Server thread/INFO]: Structure Info Saving: true
+[21:17:06] [Server thread/INFO]: Mob Spawn Range: 4
+[21:17:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[21:17:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[21:17:06] [Server thread/INFO]: Preparing start region for level 0 (Seed: 5119982535461862148)
+[21:17:07] [Server thread/INFO]: Preparing spawn area: 0%
+[21:17:08] [Server thread/INFO]: Preparing spawn area: 40%
+[21:17:09] [Server thread/INFO]: Preparing start region for level 1 (Seed: 5119982535461862148)
+[21:17:10] [Server thread/INFO]: Preparing spawn area: 88%
+[21:17:10] [Server thread/INFO]: Preparing start region for level 2 (Seed: 5119982535461862148)
+[21:17:10] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v2.1
+[21:17:10] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.7
+[21:17:10] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[21:17:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:17:10] [Server thread/INFO]: Done (5,209s)! For help, type "help" or "?"
+[21:17:52] [User Authenticator #1/INFO]: UUID of player Sm1thZe is aa8bd5e4-2620-3bf3-8857-0a2b12827bf9
+[21:17:53] [Server thread/INFO]: Sm1thZe[/127.0.0.1:55534] logged in with entity id 117 at ([world]105.76604621697278, 93.89729384002268, -45.36859894601988)
+[21:21:13] [Async Chat Thread - #0/INFO]: <Sm1thZe> ыфвфывфывфы[m
+[21:21:18] [Async Chat Thread - #0/INFO]: <Sm1thZe> Hello world[m
+[21:22:51] [Async Chat Thread - #1/INFO]: <Sm1thZe> !help[m
+[21:23:02] [Async Chat Thread - #1/INFO]: <Sm1thZe> !help[m
+[21:23:06] [Server thread/INFO]: Sm1thZe issued server command: /help
+[21:23:17] [Thread-9/INFO]: [RaspberryJuice] Starting input thread
+[21:23:17] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56029.
+[21:23:17] [Thread-10/INFO]: [RaspberryJuice] Starting output thread!
+[21:23:28] [Async Chat Thread - #1/INFO]: <Sm1thZe> !help[m
+[21:23:28] [Server thread/INFO]: /Coins - open trade list[m
+[21:23:57] [Async Chat Thread - #1/INFO]: <Sm1thZe> 2[m
+[21:23:57] [Server thread/INFO]: 2[m
+[21:24:24] [Async Chat Thread - #1/INFO]: <Sm1thZe> 2[m
+[21:24:24] [Server thread/INFO]: 2[m
+[21:24:33] [Thread-9/WARN]: java.net.SocketException: Connection reset
+[21:24:33] [Thread-9/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[21:24:33] [Thread-9/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[21:24:33] [Thread-9/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[21:24:33] [Thread-9/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[21:24:33] [Thread-9/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[21:24:33] [Thread-9/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[21:24:33] [Thread-9/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[21:24:33] [Thread-9/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[21:24:33] [Thread-9/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[21:24:33] [Thread-9/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[21:24:33] [Thread-9/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[21:24:33] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56029.
+[21:24:37] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56133.
+[21:24:37] [Thread-12/INFO]: [RaspberryJuice] Starting output thread!
+[21:24:37] [Thread-11/INFO]: [RaspberryJuice] Starting input thread
+[21:24:42] [Async Chat Thread - #1/INFO]: <Sm1thZe> 2[m
+[21:24:43] [Server thread/INFO]: 2[m
+[21:24:55] [Thread-11/WARN]: java.net.SocketException: Connection reset
+[21:24:55] [Thread-11/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[21:24:55] [Thread-11/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[21:24:55] [Thread-11/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[21:24:55] [Thread-11/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[21:24:55] [Thread-11/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[21:24:55] [Thread-11/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[21:24:55] [Thread-11/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[21:24:55] [Thread-11/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[21:24:55] [Thread-11/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[21:24:55] [Thread-11/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[21:24:55] [Thread-11/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[21:24:55] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56133.
+[21:25:01] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56204.
+[21:25:01] [Thread-13/INFO]: [RaspberryJuice] Starting input thread
+[21:25:01] [Thread-14/INFO]: [RaspberryJuice] Starting output thread!
+[21:25:03] [Async Chat Thread - #1/INFO]: <Sm1thZe> 2[m
+[21:25:03] [Server thread/INFO]: 2[m
+[21:26:39] [Thread-13/WARN]: java.net.SocketException: Connection reset
+[21:26:39] [Thread-13/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[21:26:39] [Thread-13/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[21:26:39] [Thread-13/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[21:26:39] [Thread-13/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[21:26:39] [Thread-13/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[21:26:39] [Thread-13/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[21:26:39] [Thread-13/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[21:26:39] [Thread-13/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[21:26:39] [Thread-13/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[21:26:39] [Thread-13/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[21:26:39] [Thread-13/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[21:26:39] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56204.
+[21:26:45] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56393.
+[21:26:45] [Thread-15/INFO]: [RaspberryJuice] Starting input thread
+[21:26:45] [Thread-16/INFO]: [RaspberryJuice] Starting output thread!
+[21:26:55] [Async Chat Thread - #2/INFO]: <Sm1thZe> 2[m
+[21:26:55] [Server thread/INFO]: 2[m
+[21:27:33] [Thread-15/WARN]: java.net.SocketException: Connection reset
+[21:27:33] [Thread-15/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[21:27:33] [Thread-15/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[21:27:33] [Thread-15/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[21:27:33] [Thread-15/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[21:27:33] [Thread-15/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[21:27:33] [Thread-15/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[21:27:33] [Thread-15/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[21:27:33] [Thread-15/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[21:27:33] [Thread-15/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[21:27:33] [Thread-15/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[21:27:33] [Thread-15/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[21:27:33] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56393.
+[21:27:39] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56461.
+[21:27:39] [Thread-17/INFO]: [RaspberryJuice] Starting input thread
+[21:27:39] [Thread-18/INFO]: [RaspberryJuice] Starting output thread!
+[21:27:43] [Async Chat Thread - #2/INFO]: <Sm1thZe> 2[m
+[21:27:43] [Server thread/INFO]: 2[m
+[21:27:51] [Thread-17/WARN]: java.net.SocketException: Connection reset
+[21:27:51] [Thread-17/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[21:27:51] [Thread-17/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[21:27:51] [Thread-17/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[21:27:51] [Thread-17/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[21:27:51] [Thread-17/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[21:27:51] [Thread-17/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[21:27:51] [Thread-17/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[21:27:51] [Thread-17/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[21:27:51] [Thread-17/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[21:27:51] [Thread-17/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[21:27:51] [Thread-17/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[21:27:51] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56461.
+[21:28:03] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56535.
+[21:28:03] [Thread-19/INFO]: [RaspberryJuice] Starting input thread
+[21:28:03] [Thread-20/INFO]: [RaspberryJuice] Starting output thread!
+[21:28:04] [Async Chat Thread - #2/INFO]: <Sm1thZe> 2[m
+[21:28:04] [Server thread/INFO]: 2[m
+[21:28:15] [Async Chat Thread - #2/INFO]: <Sm1thZe> 2[m
+[21:28:15] [Server thread/INFO]: 2[m
+[21:29:09] [Async Chat Thread - #2/INFO]: <Sm1thZe> !help[m
+[21:29:09] [Server thread/INFO]: /Coins - open trade list[m
+[21:29:14] [Thread-19/WARN]: java.net.SocketException: Connection reset
+[21:29:14] [Thread-19/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[21:29:14] [Thread-19/WARN]: 	at java.net.SocketInputStream.read(Unknown Source)
+[21:29:14] [Thread-19/WARN]: 	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+[21:29:14] [Thread-19/WARN]: 	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+[21:29:14] [Thread-19/WARN]: 	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+[21:29:14] [Thread-19/WARN]: 	at java.io.InputStreamReader.read(Unknown Source)
+[21:29:14] [Thread-19/WARN]: 	at java.io.BufferedReader.fill(Unknown Source)
+[21:29:14] [Thread-19/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[21:29:14] [Thread-19/WARN]: 	at java.io.BufferedReader.readLine(Unknown Source)
+[21:29:14] [Thread-19/WARN]: 	at net.zhuoweizhang.raspberryjuice.RemoteSession$InputThread.run(RemoteSession.java:577)
+[21:29:14] [Thread-19/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[21:29:14] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56535.
+[21:29:18] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56634.
+[21:29:18] [Thread-21/INFO]: [RaspberryJuice] Starting input thread
+[21:29:18] [Thread-22/INFO]: [RaspberryJuice] Starting output thread!
+[21:30:29] [Async Chat Thread - #3/INFO]: <Sm1thZe> !help[m
+[21:30:29] [Server thread/INFO]: /Coins - open trade list[m
+[21:30:29] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56634.
+[21:30:55] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56755.
+[21:30:55] [Thread-23/INFO]: [RaspberryJuice] Starting input thread
+[21:30:55] [Thread-24/INFO]: [RaspberryJuice] Starting output thread!
+[21:30:59] [Async Chat Thread - #3/INFO]: <Sm1thZe> 2[m
+[21:31:00] [Server thread/INFO]: 2[m
+[21:31:04] [Async Chat Thread - #3/INFO]: <Sm1thZe> !help[m
+[21:31:05] [Server thread/INFO]: /Coins - open trade list[m
+[21:31:05] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:56755.
+[21:31:28] [Thread-26/INFO]: [RaspberryJuice] Starting output thread!
+[21:31:28] [Thread-8/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:56796.
+[21:31:28] [Thread-25/INFO]: [RaspberryJuice] Starting input thread
+[21:31:39] [Async Chat Thread - #3/INFO]: <Sm1thZe> !help[m
+[21:31:39] [Server thread/INFO]: /Coins - open trade list[m
+[21:32:39] [Async Chat Thread - #3/INFO]: <Sm1thZe> !help[m
+[21:32:39] [Server thread/INFO]: /Coins - open trade list[m
+[21:53:52] [Server thread/INFO]: Sm1thZe lost connection: Internal Exception: java.io.IOException: Удаленный хост принудительно разорвал существующее подключение
+[21:53:52] [Server thread/INFO]: Sm1thZe left the game
